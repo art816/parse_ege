@@ -1,0 +1,79 @@
+<table border="0" cellpadding="6" cellspacing="0" width="100%">
+ <tr>
+  <td>
+   <table border="0" cellspacing="0">
+    <tr>
+     <td align="right">
+      Элементы содержания:
+     </td>
+     <td>
+      <a href="/or/ege/Main.html?view=Page&amp;contentId=132#4.1.1" title="Понятие о производной функции, геометрический смысл производной">
+       4.1.1
+      </a>
+      <a href="/or/ege/Main.html?view=Page&amp;contentId=132#4.1.4" title="Производные суммы, разности, произведения, частного">
+       4.1.4
+      </a>
+      <a href="/or/ege/Main.html?view=Page&amp;contentId=132#4.1.5" title="Производные основных элементарных функций">
+       4.1.5
+      </a>
+      <a href="/or/ege/Main.html?view=Page&amp;contentId=132#4.2.1" title="Применение производной к исследованию функций и построению графиков">
+       4.2.1
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td align="right">
+      Умения:
+     </td>
+     <td>
+      <a href="/or/ege/Main.html?view=Page&amp;contentId=131#3.2" title="Вычислять производные и первообразные элементарных функций">
+       3.2
+      </a>
+      <a href="/or/ege/Main.html?view=Page&amp;contentId=131#3.3" title="Исследовать в простейших случаях функции на монотонность, находить наибольшие и наименьшие значения функций">
+       3.3
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td align="right">
+      Прототип:
+     </td>
+     <td>
+      <a href="/or/ege/ShowProblem.html?probId=26693">
+       26693
+      </a>
+      ,
+      <a href="/or/ege/ShowProblems.html?protoId=26693">
+       аналогичные задания
+      </a>
+      ,
+      <a href="/or/ege/ShowProblems.html?posMask=2048&amp;showProto=true">
+       все прототипы 12
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td align="right">
+      Уровень:
+     </td>
+     <td>
+      профильный
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td id="QuizBody">
+   <p>
+    Найдите наименьшее значение функции
+    <img alt="y=3+\frac{2\sqrt{3}\cdot \pi }{3}-2\sqrt{3}\cdot x-4\cos x" src="/or/GetFormula?formId=86257613ce3caecbfd4ec9867cea841d" style="vertical-align: -14px;"/>
+   </p>
+   <p>
+    на отрезке
+    <img alt="\left[0;\frac{\pi }{2}\right]" src="/or/GetFormula?formId=2aa6678b35a8110908ae4cbab2ca895c" style="vertical-align: -12px;"/>
+    .
+   </p>
+  </td>
+ </tr>
+</table>

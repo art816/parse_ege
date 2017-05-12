@@ -1,0 +1,391 @@
+1494582019044	geckodriver	INFO	Listening on 127.0.0.1:54044
+1494582019985	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vV2r1JB8iooM
+1494582019986	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494582019988	geckodriver::marionette	INFO	Connecting to Marionette on localhost:48697
+
+(firefox:17160): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17160): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17160): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17160): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17160): Gtk-WARNING **: Theme file for default has no directories
+
+1494582021163	Marionette	INFO	Listening on port 48697
+
+(/usr/lib/firefox/plugin-container:17248): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17248): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17248): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17248): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494582041420	geckodriver	INFO	Listening on 127.0.0.1:39056
+1494582042468	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QBUKg5SbedYX
+1494582042469	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494582042471	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51325
+
+(firefox:17315): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17315): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17315): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17315): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17315): Gtk-WARNING **: Theme file for default has no directories
+
+1494582043495	Marionette	INFO	Listening on port 51325
+
+(/usr/lib/firefox/plugin-container:17406): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17406): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17406): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17406): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: http://www.orange.es/static/js/2015/script.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1494582080697	geckodriver	INFO	Listening on 127.0.0.1:56502
+1494582081743	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mU6Cb2Sy1XkI
+1494582081744	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494582081746	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52702
+
+(firefox:17487): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17487): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17487): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17487): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17487): Gtk-WARNING **: Theme file for default has no directories
+
+1494582082715	Marionette	INFO	Listening on port 52702
+
+(/usr/lib/firefox/plugin-container:17574): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17574): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17574): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17574): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 17574] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17574] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1494582496916	geckodriver	INFO	Listening on 127.0.0.1:56673
+1494582497962	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VYwaMVUcCFRV
+1494582497962	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494582497964	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51117
+
+(firefox:17900): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17900): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17900): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17900): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17900): Gtk-WARNING **: Theme file for default has no directories
+
+1494582498913	Marionette	INFO	Listening on port 51117
+
+(/usr/lib/firefox/plugin-container:17989): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17989): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17989): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17989): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 17989] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17989] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1494582635155	geckodriver	INFO	Listening on 127.0.0.1:58411
+1494582636202	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vhkAgTng6yKn
+1494582636203	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494582636205	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56300
+
+(firefox:18239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18239): Gtk-WARNING **: Theme file for default has no directories
+
+1494582637192	Marionette	INFO	Listening on port 56300
+
+(/usr/lib/firefox/plugin-container:18325): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18325): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18325): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18325): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494582729788	geckodriver	INFO	Listening on 127.0.0.1:38818
+1494582730841	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QKKXvyrlHP6j
+1494582730841	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494582730844	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36410
+
+(firefox:18442): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18442): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18442): Gtk-WARNING **: Theme file for default has no directories
+
+1494582731805	Marionette	INFO	Listening on port 36410
+
+(/usr/lib/firefox/plugin-container:18528): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18528): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18528): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18528): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 18528] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18528] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1494582957090	geckodriver	INFO	Listening on 127.0.0.1:52010
+1494582958136	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.C0gzYzs44R64
+1494582958137	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494582958139	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55337
+
+(firefox:18913): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18913): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18913): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18913): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18913): Gtk-WARNING **: Theme file for default has no directories
+
+1494582959136	Marionette	INFO	Listening on port 55337
+
+(/usr/lib/firefox/plugin-container:19004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+1494583051063	geckodriver	INFO	Listening on 127.0.0.1:38585
+1494583052112	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.j5rTnHz6NUqW
+1494583052112	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494583052115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36713
+
+(firefox:19140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19140): Gtk-WARNING **: Theme file for default has no directories
+
+1494583053072	Marionette	INFO	Listening on port 36713
+
+(/usr/lib/firefox/plugin-container:19227): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19227): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19227): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19227): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494583204592	geckodriver	INFO	Listening on 127.0.0.1:32912
+1494583205647	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bOZ44V9XVNyn
+1494583205648	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494583205650	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55949
+
+(firefox:19382): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19382): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19382): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19382): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19382): Gtk-WARNING **: Theme file for default has no directories
+
+1494583206680	Marionette	INFO	Listening on port 55949
+
+(/usr/lib/firefox/plugin-container:19471): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19471): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19471): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19471): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+1494583560906	geckodriver	INFO	Listening on 127.0.0.1:49724
+1494583561954	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.guAhWwl9iFdm
+1494583561954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494583561957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51188
+
+(firefox:19758): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19758): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19758): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19758): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19758): Gtk-WARNING **: Theme file for default has no directories
+
+1494583562995	Marionette	INFO	Listening on port 51188
+
+(/usr/lib/firefox/plugin-container:19849): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19849): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19849): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19849): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+1494584443041	geckodriver	INFO	Listening on 127.0.0.1:42223
+1494584444088	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VEonNbJKwz6j
+1494584444089	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494584444091	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41965
+
+(firefox:20440): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20440): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20440): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20440): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20440): Gtk-WARNING **: Theme file for default has no directories
+
+1494584445173	Marionette	INFO	Listening on port 41965
+
+(/usr/lib/firefox/plugin-container:20529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: ReferenceError: InvalidCookieDomainError is not defined
+Full stack: add@chrome://marionette/content/cookies.js:80:7
+addCookie@chrome://marionette/content/listener.js:1511:3
+dispatch/</req<@chrome://marionette/content/listener.js:189:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+dispatch/<@chrome://marionette/content/listener.js:185:15
+
+*************************
+1494584528842	geckodriver	INFO	Listening on 127.0.0.1:47610
+1494584529889	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0nxdPdIWpERT
+1494584529890	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494584529893	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53133
+
+(firefox:20631): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20631): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20631): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20631): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20631): Gtk-WARNING **: Theme file for default has no directories
+
+1494584530988	Marionette	INFO	Listening on port 53133
+
+(/usr/lib/firefox/plugin-container:20722): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20722): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20722): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20722): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494584550284	geckodriver	INFO	Listening on 127.0.0.1:48841
+1494584551328	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dQmwXP20d99z
+1494584551329	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494584551331	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59804
+
+(firefox:20784): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20784): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20784): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20784): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20784): Gtk-WARNING **: Theme file for default has no directories
+
+1494584552392	Marionette	INFO	Listening on port 59804
+
+(/usr/lib/firefox/plugin-container:20872): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20872): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20872): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20872): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+1494584654782	geckodriver	INFO	Listening on 127.0.0.1:40717
+1494584655834	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iqEQ4McY7oVf
+1494584655835	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494584655837	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35990
+
+(firefox:21034): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21034): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21034): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21034): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21034): Gtk-WARNING **: Theme file for default has no directories
+
+1494584657124	Marionette	INFO	Listening on port 35990
+
+(/usr/lib/firefox/plugin-container:21121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+1494584722271	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494584790981	geckodriver	INFO	Listening on 127.0.0.1:42945
+1494584792025	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zb4NuLQ4pt4Y
+1494584792025	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494584792027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60082
+
+(firefox:21513): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21513): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21513): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21513): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21513): Gtk-WARNING **: Theme file for default has no directories
+
+1494584793028	Marionette	INFO	Listening on port 60082
+
+(/usr/lib/firefox/plugin-container:21602): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21602): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21602): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21602): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: http://mathege.ru/or/struts/dojo/struts_dojo.js, line 8966: unreachable code after return statement
+1494584857748	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
